@@ -5,6 +5,10 @@
 - Terraform 0.12.19
 - aws 2.45.0
 
+## インフラ構成
+![インフラ構成](https://gyazo.com/15a06a7d37fb3f56983f9a58d1ae7554.png)
+
+
 ## 環境構築
 
 ```
